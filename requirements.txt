@@ -1,0 +1,5 @@
+moviepy>=1.0.3
+opencv-python>=4.5
+Pillow>=9.0
+pygame>=2.0
+vapoursynth # optional, remove if you don't want it
