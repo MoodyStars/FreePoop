@@ -32,7 +32,6 @@
 - python main.py
 
   # Screenshot
-https://preview.redd.it/freepoop-is-deluxe-ytp-generated-awesome-content-v0-5jv93ny2ta0g1.png?width=640&crop=smart&auto=webp&s=11eee53d9d3062ecd9be658c79d0b35f0f807eb5
 <img width="640" height="426" alt="image" src="https://github.com/user-attachments/assets/eb97b49d-8e97-43ac-9f6a-e8ee07376480" />
 
 # Limitations
