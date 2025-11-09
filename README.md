@@ -32,6 +32,7 @@
 - python main.py
 
   # Screenshot
+freepoop.PNG
 
 # Limitations
 - This is a scaffold; the generation pipeline demonstrates random chopping, ordering, and basic attachments of audio. For production YTP-level effects you'll want to:
