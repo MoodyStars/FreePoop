@@ -31,7 +31,7 @@
 # Running
 - python main.py
 
-  # Screenshot
+# Screenshot
 <img width="640" height="426" alt="image" src="https://github.com/user-attachments/assets/eb97b49d-8e97-43ac-9f6a-e8ee07376480" />
 
 # Limitations
