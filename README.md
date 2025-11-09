@@ -32,8 +32,7 @@
 - python main.py
 
   # Screenshot
-freepoop.PNG
-
+https://preview.redd.it/freepoop-is-deluxe-ytp-generated-awesome-content-v0-5jv93ny2ta0g1.png?width=640&crop=smart&auto=webp&s=11eee53d9d3062ecd9be658c79d0b35f0f807eb5
 # Limitations
 - This is a scaffold; the generation pipeline demonstrates random chopping, ordering, and basic attachments of audio. For production YTP-level effects you'll want to:
   - Add VapourSynth filtering pipelines (deinterlacing, motion blur, advanced color transforms).
