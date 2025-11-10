@@ -1,4 +1,3 @@
-```markdown
 # FreePoop 0.5 — Super Deluxe (Tkinter scaffold)
 
 What this is
