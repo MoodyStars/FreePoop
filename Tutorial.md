@@ -1,4 +1,3 @@
-```markdown
 # Tutorial — FreePoop 0.5 Deluxe
 FreePoop 0.5 — Super Deluxe is a Tkinter-based scaffold for creating YouTube Poop (YTP) style videos: chaotic edits, stutter loops, scrambles, YTP tennis rounds, and YTPMVs. This tutorial explains how to install, run, and use the app; describes the major UI controls and effect toggles; and gives tips and troubleshooting steps for common problems on Windows 8.1 + Python 3.9.
 
