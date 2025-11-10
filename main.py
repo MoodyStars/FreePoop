@@ -1,13 +1,11 @@
 # main.py
-# Entry point for FreePoop YTP Generator - Super Deluxe
+# Entry point for FreePoop 0.5 — Super Deluxe
 
-import threading
-import tkinter as tk
 from gui import FreePoopGUI
 
 def main():
-    root = FreePoopGUI()
-    root.mainloop()
+    app = FreePoopGUI()
+    app.mainloop()
 
 if __name__ == "__main__":
     main()
